@@ -1,0 +1,1 @@
+{ "name": "open-in-obsidian", "version": "0.1.1", "description": "Buttons above the prompt to open the last Markdown files Claude touched in Obsidian, plus /obsidian", "types": "./types/index.d.ts" }

@@ -1,0 +1,5 @@
+{
+  "name": "open-in-obsidian",
+  "owner": { "name": "Unkillable Companies" },
+  "plugins": [{ "name": "open-in-obsidian", "source": "./" }]
+}
