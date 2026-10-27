@@ -48,4 +48,8 @@ macOS stores paths with accents in decomposed form (NFD), and so does Obsidian. 
 
 ## License
 
-MIT
+MIT. See [LICENSE](LICENSE).
+
+## Built by Unkillable Companies
+
+[Unkillable Companies](https://unkillablecompanies.com) helps business leaders rebuild how their company runs with AI: the leader builds their own system first, then brings the team along. We build tools like this one for ourselves first, and share the ones worth sharing.

@@ -1,1 +1,14 @@
-{ "name": "open-in-obsidian", "version": "0.1.1", "description": "Buttons above the prompt to open the last Markdown files Claude touched in Obsidian, plus /obsidian", "types": "./types/index.d.ts" }
+{
+  "name": "open-in-obsidian",
+  "version": "0.1.1",
+  "description": "Buttons above the prompt to open the last Markdown files Claude touched in Obsidian, plus /obsidian",
+  "author": {
+    "name": "Unkillable Companies",
+    "url": "https://unkillablecompanies.com"
+  },
+  "homepage": "https://github.com/go-silex/uc-mod-open-in-obsidian",
+  "repository": "https://github.com/go-silex/uc-mod-open-in-obsidian",
+  "license": "MIT",
+  "keywords": ["obsidian", "markdown", "notes", "mod"],
+  "types": "./types/index.d.ts"
+}
