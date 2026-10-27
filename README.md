@@ -16,7 +16,7 @@ It works in the terminal and in the Code tab of the Claude desktop app.
 At the prompt of a Claude Code terminal session:
 
 ```
-/plugin install open-in-obsidian --marketplace go-silex/open-in-obsidian
+/plugin install open-in-obsidian --marketplace go-silex/uc-mod-open-in-obsidian
 ```
 
 Answer `y` to add the marketplace, then pick a scope (user scope loads it in every session).
@@ -24,10 +24,10 @@ Answer `y` to add the marketplace, then pick a scope (user scope loads it in eve
 From a shell:
 
 ```bash
-claude plugin install open-in-obsidian --marketplace go-silex/open-in-obsidian
+claude plugin install open-in-obsidian --marketplace go-silex/uc-mod-open-in-obsidian
 ```
 
-In the desktop app, where `/plugin` does not run: click + next to the prompt box, then Plugins, Add marketplace with `go-silex/open-in-obsidian`, then Add plugin.
+In the desktop app, where `/plugin` does not run: click + next to the prompt box, then Plugins, Add marketplace with `go-silex/uc-mod-open-in-obsidian`, then Add plugin.
 
 ## Requirements
 
